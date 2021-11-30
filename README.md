@@ -1,2 +1,9 @@
 # MykolaOwnProject1
-ML-project
+ML-project Models
+Deep learning
+Decision trees
+Support-vector machines
+Regression analysis
+Bayesian networks
+Genetic algorithms
+Federated learning
